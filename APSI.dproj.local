@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/12 14:00:00.000.963,=C:\Users\Sanfazriyawan\Documents\Project\APSI\ServerModule.pas</Transaction>
+    <Transaction>2017/12/12 14:00:00.000.045,=C:\Users\Sanfazriyawan\Documents\Project\APSI\MainModule.pas</Transaction>
+    <Transaction>2017/12/12 14:00:00.000.243,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Main.pas</Transaction>
+    <Transaction>2017/12/13 11:00:00.000.628,C:\Users\Sanfazriyawan\Documents\Project\APSI\Udatabibit.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 11:00:00.000.317,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 11:00:00.000.628,C:\Users\Sanfazriyawan\Documents\Project\APSI\Udatabibit.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.116,C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtbibit.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.910,C:\Users\Sanfazriyawan\Documents\Project\APSI\fdatabibit.pas=</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.619,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.071,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.041,C:\Users\Sanfazriyawan\Documents\Project\APSI\Utransaksibibit.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.116,C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtbibit.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.557,C:\Users\Sanfazriyawan\Documents\Project\APSI\fdatabibit.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udatabibit.pas</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.041,C:\Users\Sanfazriyawan\Documents\Project\APSI\Utransaksibibit.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 12:00:00.000.557,C:\Users\Sanfazriyawan\Documents\Project\APSI\fdatabibit.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udatabibit.dfm</Transaction>
+    <Transaction>2017/12/13 13:00:00.000.312,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 13:00:00.000.429,C:\Users\Sanfazriyawan\Documents\Project\APSI\Ukdtransaksi.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 13:00:00.000.429,C:\Users\Sanfazriyawan\Documents\Project\APSI\Ukdtransaksi.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.668,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtpupuk.dfm</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.772,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.668,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtpupuk.pas</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.798,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.090,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Utransaksipupuk.pas</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.090,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Utransaksipupuk.dfm</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.021,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtbtani.dfm</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.795,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Ulogin.dfm</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.795,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Ulogin.pas</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.757,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.021,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Udtbtani.pas</Transaction>
+    <Transaction>2017/12/14 19:00:00.000.078,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 20:00:00.000.938,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregisbtani.dfm</Transaction>
+    <Transaction>2017/12/14 20:00:00.000.204,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 20:00:00.000.938,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregisbtani.pas</Transaction>
+    <Transaction>2017/12/14 20:00:00.000.666,C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregisbtani.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregistrasi.dfm</Transaction>
+    <Transaction>2017/12/14 20:00:00.000.666,C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregisbtani.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Uregistrasi.pas</Transaction>
+    <Transaction>2017/12/16 19:00:00.000.867,=C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas</Transaction>
+    <Transaction>2017/12/16 19:00:00.000.759,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.pas=C:\Users\Sanfazriyawan\Documents\Project\APSI\Ubookingbtani.pas</Transaction>
+    <Transaction>2017/12/16 19:00:00.000.759,C:\Users\Sanfazriyawan\Documents\Project\APSI\Unit1.dfm=C:\Users\Sanfazriyawan\Documents\Project\APSI\Ubookingbtani.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
